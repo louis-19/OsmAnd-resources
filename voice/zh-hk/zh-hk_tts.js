@@ -114,7 +114,7 @@ function populateDictionary(tts) {
 	dictionary["toward"] = tts ? "向" : "toward.ogg";
 
 	// DISTANCE UNIT SUPPORT
-	dictionary["meters"] = tts ? "公尺" : "meters.ogg";
+	dictionary["meters"] = tts ? "米" : "meters.ogg";
 	dictionary["around_1_kilometer"] = tts ? "約一公里" : "around_1_kilometer.ogg";
 	dictionary["around"] = tts ? "約" : "around.ogg";
 	dictionary["kilometers"] = tts ? "公里" : "kilometers.ogg";
