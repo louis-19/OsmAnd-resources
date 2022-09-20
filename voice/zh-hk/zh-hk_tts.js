@@ -128,11 +128,11 @@ function populateDictionary(tts) {
 
 	// TIME SUPPORT
 	dictionary["time"] = tts ? "所需時間" : "time.ogg";
-	dictionary["1_hour"] = tts ? "一小時" : "1_hour.ogg";
-	dictionary["hours"] = tts ? "小時" : "hours.ogg";
-	dictionary["less_a_minute"] = tts ? "不到一分鐘" : "less_a_minute.ogg";
-	dictionary["1_minute"] = tts ? "一分鐘" : "1_minute.ogg";
-	dictionary["minutes"] = tts ? "分鐘" : "minutes.ogg";
+	dictionary["1_hour"] = tts ? "一小時 " : "1_hour.ogg";
+	dictionary["hours"] = tts ? " 小時 " : "hours.ogg";
+	dictionary["less_a_minute"] = tts ? "不到一分鐘 " : "less_a_minute.ogg";
+	dictionary["1_minute"] = tts ? "一分鐘 " : "1_minute.ogg";
+	dictionary["minutes"] = tts ? " 分鐘 " : "minutes.ogg";
 }
 
 
